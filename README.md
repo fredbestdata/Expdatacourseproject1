@@ -1,2 +1,2 @@
-# Expdatacourseproject1
-Exploratory Data Analysis Course project 1
+# Peer-graded Assignment: Course Project 1
+
